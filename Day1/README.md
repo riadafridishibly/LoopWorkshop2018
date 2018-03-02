@@ -1,4 +1,4 @@
-# List of Topics 
+# List of Topics - Day 1
 
 * [String](#string)
     * [String Printing](#string-printing)
