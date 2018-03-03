@@ -182,7 +182,7 @@ printf("CGPA %f\n", 3.99);
 
 ### What?
 
-Single character. `a`, `1`, `#`, `)` All are characters. Notice the single quote. You may wanna see the [ASCII Table](https://www.asciitable.com/) table.
+Single character. `a`, `1`, `#`, `)` All are characters. Notice the single quote. You may wanna see the [ASCII Table](https://www.asciitable.com/).
 
 
 ### Char Declaration
